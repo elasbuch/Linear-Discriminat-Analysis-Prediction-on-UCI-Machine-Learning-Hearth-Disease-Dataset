@@ -1,0 +1,1 @@
+# Linear-Discriminat-Analysis-Prediction-on-UCI-Machine-Learning-Hearth-Disease-Dataset
